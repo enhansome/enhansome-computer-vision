@@ -10,17 +10,18 @@
       "items": [
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Public Datasets",
           "description": null,
           "children": [],
+          "registry_signal": "membership",
           "repo_info": {
             "archived": false,
             "language": null,
             "last_commit": "2026-07-09T20:50:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 76800
+            "stars": 76837
           }
         },
         {
@@ -29,13 +30,14 @@
           "title": "Awesome Machine Learning",
           "description": null,
           "children": [],
+          "registry_signal": "membership",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-06-18T13:51:25Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 73281
+            "stars": 73302
           }
         },
         {
@@ -44,6 +46,7 @@
           "title": "Awesome Deep Learning",
           "description": null,
           "children": [],
+          "registry_signal": "membership",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -59,13 +62,14 @@
           "title": "Awesome Production Machine Learning",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
             "last_commit": "2026-07-03T17:47:07Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20710
+            "stars": 20713
           }
         },
         {
@@ -74,6 +78,7 @@
           "title": "Awesome Deep Vision",
           "description": null,
           "children": [],
+          "registry_signal": "membership",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -85,10 +90,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome 3D Machine Learning",
           "description": null,
           "children": [],
+          "registry_signal": "content",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -104,6 +110,7 @@
           "title": "Awesome Object Detection",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -119,6 +126,7 @@
           "title": "Awesome Neural Radiance Fields",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": "TeX",
@@ -130,17 +138,18 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Robotics",
           "description": null,
           "children": [],
+          "registry_signal": "membership",
           "repo_info": {
             "archived": false,
             "language": null,
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6738
+            "stars": 6739
           }
         },
         {
@@ -149,6 +158,7 @@
           "title": "Awesome Domain Adaptation",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -160,10 +170,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome GAN applications",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -179,6 +190,7 @@
           "title": "Awesome Face Recognition",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -190,10 +202,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Machine Learning Interpretability",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -209,6 +222,7 @@
           "title": "Awesome Action Recognition",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -224,6 +238,7 @@
           "title": "Awesome Visual Transformer",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -239,6 +254,7 @@
           "title": "Awesome Image Classification",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -250,17 +266,18 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Deblurring",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
             "last_commit": "2025-06-29T07:34:16Z",
             "owner": "subeeshvasu",
             "repo": "Awesome-Deblurring",
-            "stars": 2899
+            "stars": 2900
           }
         },
         {
@@ -269,6 +286,7 @@
           "title": "Awesome Anomaly Detection",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -284,6 +302,7 @@
           "title": "Awesome Learning with Label Noise",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -295,10 +314,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Implicit Neural Representations",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -314,6 +334,7 @@
           "title": "Awesome Deep Learning for Tracking and Detection",
           "description": null,
           "children": [],
+          "registry_signal": "content",
           "repo_info": {
             "archived": false,
             "language": "HTML",
@@ -325,10 +346,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Images",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -340,10 +362,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Neural Rendering",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -359,6 +382,7 @@
           "title": "Awesome Image Inpainting",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": "Python",
@@ -370,10 +394,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Adversarial Machine Learning",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -385,17 +410,18 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Explainable AI",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": "Markdown",
             "last_commit": "2026-03-07T11:27:21Z",
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1650
+            "stars": 1651
           }
         },
         {
@@ -404,6 +430,7 @@
           "title": "Awesome Document Understanding",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -419,6 +446,7 @@
           "title": "Awesome Human Pose Estimation",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -434,6 +462,7 @@
           "title": "Awesome Human Pose Estimation",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -445,10 +474,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Image-to-Image Translation",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -460,10 +490,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Vision + Language",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -475,10 +506,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Graphics",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -494,6 +526,7 @@
           "title": "Awesome Dataset Tools",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -505,10 +538,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Face",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -524,6 +558,7 @@
           "title": "Awesome Deep Learning for Video Analysis",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -535,17 +570,18 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Scene Understanding",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": true,
             "language": null,
             "last_commit": "2025-08-07T03:57:02Z",
             "owner": "bertjiazheng",
             "repo": "awesome-scene-understanding",
-            "stars": 819
+            "stars": 820
           }
         },
         {
@@ -554,6 +590,7 @@
           "title": "Awesome Embodied Vision",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -569,6 +606,7 @@
           "title": "Awesome Video Text Retrieval",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -580,10 +618,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Robotics Datasets",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -595,10 +634,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Deep HDR",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -614,6 +654,7 @@
           "title": "Awsome Deep Geometry Learning",
           "description": null,
           "children": [],
+          "registry_signal": "description",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -625,10 +666,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Fairness in AI",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -640,10 +682,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Image Distortion Correction",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -655,10 +698,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Makeup Transfer",
           "description": null,
           "children": [],
+          "registry_signal": "topic",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -670,10 +714,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Adversarial Deep Learning",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -685,10 +730,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome medical imaging",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -700,10 +746,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Generative Modeling",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -715,10 +762,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Video Generation",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -730,10 +778,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Machine Learning in Biomedical(Healthcare) Imaging",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -745,10 +794,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Neuron Segmentation in EM Images",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -760,10 +810,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awsome GAN Training",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -790,10 +841,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome ImageHarmonization",
           "description": null,
           "children": [],
+          "registry_signal": "name",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -805,10 +857,11 @@
         },
         {
           "node_type": "item",
-          "kind": "repository",
+          "kind": "registry",
           "title": "Awesome Mobile Machine Learning",
           "description": null,
-          "children": []
+          "children": [],
+          "registry_signal": "name"
         }
       ],
       "title": "Awesome Lists"
@@ -1204,13 +1257,14 @@
           "title": "awesome-machine-learning",
           "description": null,
           "children": [],
+          "registry_signal": "membership",
           "repo_info": {
             "archived": false,
             "language": "Python",
             "last_commit": "2026-06-18T13:51:25Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 73281
+            "stars": 73302
           }
         },
         {
@@ -1219,6 +1273,7 @@
           "title": "awesome-deep-learning",
           "description": null,
           "children": [],
+          "registry_signal": "membership",
           "repo_info": {
             "archived": false,
             "language": null,
@@ -1238,12 +1293,13 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-10T10:29:55.010Z",
+    "last_updated": "2026-07-11T02:56:42.760Z",
     "original_repository": "jbhuang0604/awesome-computer-vision",
     "original_repository_sha": "9b82b1645aecdc9b895fc378d5209a9f6672bb15",
     "enhanced_repository": "enhansome/enhansome-computer-vision",
     "enhanced_repository_description": null,
     "kind": "registry",
-    "title": "Awesome Computer Vision: with stars"
+    "title": "Awesome Computer Vision: with stars",
+    "registry_signal": "content"
   }
 }
