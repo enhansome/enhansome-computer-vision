@@ -21,7 +21,7 @@
             "last_commit": "2026-07-13T21:46:55Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 77527
+            "stars": 77642
           }
         },
         {
@@ -37,7 +37,7 @@
             "last_commit": "2026-07-21T13:51:37Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 73676
+            "stars": 73703
           }
         },
         {
@@ -53,7 +53,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28654
+            "stars": 28657
           }
         },
         {
@@ -69,7 +69,7 @@
             "last_commit": "2026-07-14T20:54:26Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20796
+            "stars": 20797
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6763
+            "stars": 6765
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2023-02-09T07:02:58Z",
             "owner": "ChanChiChoi",
             "repo": "awesome-Face_Recognition",
-            "stars": 4748
+            "stars": 4749
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2025-01-07T01:59:49Z",
             "owner": "dk-liang",
             "repo": "Awesome-Visual-Transformer",
-            "stars": 3590
+            "stars": 3589
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-03-09T08:39:53Z",
             "owner": "abhineet123",
             "repo": "Deep-Learning-for-Tracking-and-Detection",
-            "stars": 2511
+            "stars": 2510
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2026-03-07T11:27:21Z",
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1651
+            "stars": 1650
           }
         },
         {
@@ -485,7 +485,7 @@
             "last_commit": "2025-09-20T11:58:02Z",
             "owner": "weihaox",
             "repo": "awesome-image-translation",
-            "stars": 1237
+            "stars": 1238
           }
         },
         {
@@ -661,7 +661,7 @@
             "last_commit": "2021-08-23T17:40:42Z",
             "owner": "subeeshvasu",
             "repo": "Awsome_Deep_Geometry_Learning",
-            "stars": 363
+            "stars": 364
           }
         },
         {
@@ -677,7 +677,7 @@
             "last_commit": "2023-09-15T22:19:22Z",
             "owner": "datamllab",
             "repo": "awesome-fairness-in-ai",
-            "stars": 334
+            "stars": 335
           }
         },
         {
@@ -903,7 +903,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-24T04:05:33Z",
+            "last_commit": "2026-07-24T18:30:25Z",
             "owner": "liuliu",
             "repo": "ccv",
             "stars": 7231
@@ -1074,7 +1074,7 @@
             "last_commit": "2023-03-23T14:55:27Z",
             "owner": "tum-vision",
             "repo": "lsd_slam",
-            "stars": 2721
+            "stars": 2720
           }
         },
         {
@@ -1089,7 +1089,7 @@
             "last_commit": "2022-09-18T00:48:53Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM",
-            "stars": 1630
+            "stars": 1631
           }
         }
       ],
@@ -1264,7 +1264,7 @@
             "last_commit": "2026-07-21T13:51:37Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 73676
+            "stars": 73703
           }
         },
         {
@@ -1280,7 +1280,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28654
+            "stars": 28657
           }
         }
       ],
@@ -1293,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-24T05:22:45.966Z",
+    "last_updated": "2026-07-25T05:16:57.705Z",
     "original_repository": "jbhuang0604/awesome-computer-vision",
     "original_repository_sha": "9b82b1645aecdc9b895fc378d5209a9f6672bb15",
     "enhanced_repository": "enhansome/enhansome-computer-vision",
