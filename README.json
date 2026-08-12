@@ -19,7 +19,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78033
+            "stars": 78048
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T18:03:02Z",
+            "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 73982
+            "stars": 73996
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28734
+            "stars": 28739
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-10T02:41:19Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20835
+            "stars": 20839
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11178
+            "stars": 11177
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2022-12-17T04:28:58Z",
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7499
+            "stars": 7500
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6831
+            "stars": 6832
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2025-12-08T06:04:32Z",
             "owner": "zhaoxin94",
             "repo": "awesome-domain-adaptation",
-            "stars": 5454
+            "stars": 5453
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2025-01-07T01:59:49Z",
             "owner": "dk-liang",
             "repo": "Awesome-Visual-Transformer",
-            "stars": 3589
+            "stars": 3588
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2022-04-20T15:52:51Z",
             "owner": "weiaicunzai",
             "repo": "awesome-image-classification",
-            "stars": 3060
+            "stars": 3059
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2025-06-29T07:34:16Z",
             "owner": "subeeshvasu",
             "repo": "Awesome-Deblurring",
-            "stars": 2911
+            "stars": 2910
           }
         },
         {
@@ -285,21 +285,7 @@
             "last_commit": "2024-02-11T22:48:44Z",
             "owner": "vsitzmann",
             "repo": "awesome-implicit-representations",
-            "stars": 2642
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Images",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-06T09:21:22Z",
-            "owner": "heyalexej",
-            "repo": "awesome-images",
-            "stars": 2508
+            "stars": 2643
           }
         },
         {
@@ -313,6 +299,20 @@
             "last_commit": "2026-03-09T08:39:53Z",
             "owner": "abhineet123",
             "repo": "Deep-Learning-for-Tracking-and-Detection",
+            "stars": 2509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Images",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-06T09:21:22Z",
+            "owner": "heyalexej",
+            "repo": "awesome-images",
             "stars": 2508
           }
         },
@@ -341,7 +341,7 @@
             "last_commit": "2026-02-09T13:30:33Z",
             "owner": "zengyh1900",
             "repo": "Awesome-Image-Inpainting",
-            "stars": 2179
+            "stars": 2178
           }
         },
         {
@@ -798,7 +798,7 @@
             "last_commit": "2026-08-10T18:47:14Z",
             "owner": "liuliu",
             "repo": "ccv",
-            "stars": 7235
+            "stars": 7237
           }
         },
         {
@@ -1136,10 +1136,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T18:03:02Z",
+            "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 73982
+            "stars": 73996
           }
         },
         {
@@ -1153,7 +1153,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28734
+            "stars": 28739
           }
         }
       ],
@@ -1166,7 +1166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-11T03:46:48.529Z",
+    "last_updated": "2026-08-12T04:09:51.189Z",
     "original_repository": "jbhuang0604/awesome-computer-vision",
     "original_repository_sha": "9b82b1645aecdc9b895fc378d5209a9f6672bb15",
     "enhanced_repository": "enhansome/enhansome-computer-vision",
