@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T17:12:16Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78443
+            "stars": 78515
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T10:11:51Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74115
+            "stars": 74123
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28795
+            "stars": 28801
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20859
+            "stars": 20864
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2023-08-15T10:52:15Z",
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11184
+            "stars": 11185
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-12-17T04:28:58Z",
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7503
+            "stars": 7502
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-09-22T20:24:10Z",
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6972
+            "stars": 6976
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-06-03T15:17:31Z",
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4061
+            "stars": 4060
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2025-06-29T07:34:16Z",
             "owner": "subeeshvasu",
             "repo": "Awesome-Deblurring",
-            "stars": 2912
+            "stars": 2913
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2020-11-26T16:09:26Z",
             "owner": "yenchenlin",
             "repo": "awesome-adversarial-machine-learning",
-            "stars": 1909
+            "stars": 1910
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2025-12-10T23:44:27Z",
             "owner": "thaoshibe",
             "repo": "awesome-makeup-transfer",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -815,7 +815,7 @@
                 "archived": false,
                 "id": 912896,
                 "language": "C++",
-                "last_commit": "2026-08-20T08:01:21Z",
+                "last_commit": "2026-08-22T18:47:08Z",
                 "owner": "liuliu",
                 "repo": "ccv",
                 "stars": 7242
@@ -924,7 +924,7 @@
                     "last_commit": "2016-09-21T19:57:35Z",
                     "owner": "tum-vision",
                     "repo": "dvo_slam",
-                    "stars": 668
+                    "stars": 667
                   }
                 },
                 {
@@ -1091,7 +1091,7 @@
                 "last_commit": "2026-08-21T10:11:51Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74115
+                "stars": 74123
               }
             },
             {
@@ -1106,7 +1106,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28795
+                "stars": 28801
               }
             }
           ],
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:05:33.036Z",
+    "last_updated": "2026-08-23T13:06:43.213Z",
     "original_repository": "jbhuang0604/awesome-computer-vision",
     "original_repository_id": 29357796,
     "original_repository_sha": "9b82b1645aecdc9b895fc378d5209a9f6672bb15",
