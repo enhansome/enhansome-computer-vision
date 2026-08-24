@@ -27,7 +27,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,582 | 🐛 159 | 📅 2026-08-23
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,141 | 🐛 26 | 🌐 Python | 📅 2026-08-21
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,805 | 🐛 84 | 📅 2025-05-26
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,804 | 🐛 84 | 📅 2025-05-26
 * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,864 | 🐛 31 | 📅 2026-08-12
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,186 | 🐛 47 | 📅 2023-08-15
 * [Awesome 3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,191 | 🐛 21 | 📅 2024-07-04
@@ -301,10 +301,10 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Annotation tools
 
+* [gtmaker](https://github.com/sanko-shoko/gtmaker) ⭐ 14 | 🐛 2 | 🌐 C++ | 📅 2020-12-06
 * [Comma Coloring](http://commacoloring.herokuapp.com/)
 * [Annotorious](https://annotorious.github.io/)
 * [LabelME](http://labelme.csail.mit.edu/Release3.0/)
-* [gtmaker](https://github.com/sanko-shoko/gtmaker) ⭐ 14 | 🐛 2 | 🌐 C++ | 📅 2020-12-06
 
 #### External Resource Links
 
@@ -328,6 +328,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### Multiple-view Computer Vision
 
+* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,418 | 🐛 6 | 📅 2021-10-12
 * [MATLAB Functions for Multiple View Geometry](http://www.robots.ox.ac.uk/~vgg/hzbook/code/)
 * [Peter Kovesi's Matlab Functions for Computer Vision and Image Analysis](http://staffhome.ecm.uwa.edu.au/~00011811/Research/MatlabFns/index.html)
 * [OpenGV ](http://laurentkneip.github.io/opengv/) - geometric computer vision algorithms
@@ -340,10 +341,10 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
-* [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,418 | 🐛 6 | 📅 2021-10-12
 
 #### Feature Detection and Extraction
 
+* [Local Binary Patterns](https://github.com/nourani/LBP) ⭐ 98 | 🐛 3 | 🌐 C | 📅 2017-12-11
 * [VLFeat](http://www.vlfeat.org/)
 * [SIFT](http://www.cs.ubc.ca/~lowe/keypoints/)
   * David G. Lowe, "Distinctive image features from scale-invariant keypoints," International Journal of Computer Vision, 60, 2 (2004), pp. 91-110.
@@ -356,7 +357,6 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
   * A. Alahi, R. Ortiz, and P. Vandergheynst, "FREAK: Fast Retina Keypoint", CVPR 2012
 * [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
   * Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
-* [Local Binary Patterns](https://github.com/nourani/LBP) ⭐ 98 | 🐛 3 | 🌐 C | 📅 2017-12-11
 
 #### High Dynamic Range Imaging
 
@@ -552,8 +552,8 @@ Non-uniform Deblurring
 
 ###### Graph Optimization:
 
-* [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
 * [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o) ⭐ 3,460 | 🐛 7 | 🌐 C++ | 📅 2026-08-23
+* [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
 
 ###### Loop Closure:
 
@@ -568,10 +568,10 @@ Non-uniform Deblurring
 
 #### Single-view Spatial Understanding
 
+* [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) ⭐ 26 | 🐛 2 | 🌐 Matlab | 📅 2014-08-23 - Ruiqi Guo (UIUC)
 * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
 * [Recovering Spatial Layout](http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (UIUC)
 * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (CMU)
-* [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) ⭐ 26 | 🐛 2 | 🌐 Matlab | 📅 2014-08-23 - Ruiqi Guo (UIUC)
 
 #### Object Detection
 
@@ -595,10 +595,10 @@ Non-uniform Deblurring
 
 ###### Nearest Neighbor Field Estimation
 
+* [PMBP: PatchMatch Belief Propagation](https://github.com/fbesse/pmbp) ⭐ 27 | 🐛 1 | 🌐 C++ | 📅 2014-09-18
 * [PatchMatch](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php)
 * [Generalized PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
 * [Coherency Sensitive Hashing](http://www.eng.tau.ac.il/~simonk/CSH/)
-* [PMBP: PatchMatch Belief Propagation](https://github.com/fbesse/pmbp) ⭐ 27 | 🐛 1 | 🌐 C++ | 📅 2014-09-18
 * [TreeCANN](http://www.eng.tau.ac.il/~avidan/papers/TreeCANN_code_20121022.rar)
 
 #### Visual Tracking
@@ -862,18 +862,18 @@ Non-uniform Deblurring
 
 ## Blogs
 
+* [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) ⭐ 436 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-02-21 - Jason Chin (University of Western Ontario)
 * [Learn OpenCV](http://www.learnopencv.com/) - Satya Mallick
 * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) - Tomasz Malisiewicz
 * [Computer vision for dummies](http://www.visiondummy.com/) - Vincent Spruyt
 * [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
 * [AI Shack](http://aishack.in/) - Utkarsh Sinha
 * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
-* [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) ⭐ 436 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-02-21 - Jason Chin (University of Western Ontario)
 
 ## Links
 
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,141 | 🐛 26 | 🌐 Python | 📅 2026-08-21
-* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,805 | 🐛 84 | 📅 2025-05-26
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,804 | 🐛 84 | 📅 2025-05-26
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)

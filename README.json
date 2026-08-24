@@ -45,7 +45,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28805
+            "stars": 28804
           }
         },
         {
@@ -808,6 +808,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "gtmaker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143307024,
+                "language": "C++",
+                "last_commit": "2020-12-06T11:59:42Z",
+                "owner": "sanko-shoko",
+                "repo": "gtmaker",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Annotation tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ccv: A Modern Computer Vision Library",
               "description": null,
               "children": [],
@@ -840,6 +862,72 @@
           "description": null,
           "node_type": "group",
           "title": "General Purpose Computer Vision Library"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome 3D reconstruction list",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65994875,
+                "language": null,
+                "last_commit": "2021-10-12T04:37:11Z",
+                "owner": "openMVG",
+                "repo": "awesome_3DReconstruction_list",
+                "stars": 4418
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multiple-view Computer Vision"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Local Binary Patterns",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8120608,
+                "language": "C",
+                "last_commit": "2017-12-11T12:42:58Z",
+                "owner": "nourani",
+                "repo": "LBP",
+                "stars": 98
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Feature Detection and Extraction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HDR_Toolbox",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5613896,
+                "language": "MATLAB",
+                "last_commit": "2026-07-23T09:26:37Z",
+                "owner": "banterle",
+                "repo": "HDR_Toolbox",
+                "stars": 416
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "High Dynamic Range Imaging"
         },
         {
           "children": [
@@ -966,6 +1054,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "G2O: General framework for graph optomization",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3161336,
+                    "language": "C++",
+                    "last_commit": "2026-08-23T19:39:56Z",
+                    "owner": "RainerKuemmerle",
+                    "repo": "g2o",
+                    "stars": 3460
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Graph Optimization:"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "LSD-SLAM",
                   "description": null,
                   "children": [],
@@ -1003,6 +1113,28 @@
           "description": null,
           "node_type": "group",
           "title": "Simultaneous localization and mapping"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RGBD2Full3D",
+              "description": "Ruiqi Guo (UIUC)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23132355,
+                "language": "Matlab",
+                "last_commit": "2014-08-23T15:34:25Z",
+                "owner": "arron2003",
+                "repo": "rgbd2full3d",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Single-view Spatial Understanding"
         },
         {
           "children": [
@@ -1070,6 +1202,79 @@
           "description": null,
           "node_type": "group",
           "title": "Object Detection"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PMBP: PatchMatch Belief Propagation",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10575714,
+                    "language": "C++",
+                    "last_commit": "2014-09-18T22:22:27Z",
+                    "owner": "fbesse",
+                    "repo": "pmbp",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Nearest Neighbor Field Estimation"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Nearest Neighbor Search"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Deep Vision",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35812923,
+                "language": null,
+                "last_commit": "2023-08-15T10:52:15Z",
+                "owner": "kjw0612",
+                "repo": "awesome-deep-vision",
+                "stars": 11186
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deep Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Machine Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21872392,
+                "language": "Python",
+                "last_commit": "2026-08-21T10:11:51Z",
+                "owner": "josephmisiti",
+                "repo": "awesome-machine-learning",
+                "stars": 74141
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine Learning"
         }
       ],
       "title": "Software"
@@ -1077,6 +1282,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Computer Vision Basics with Python Keras and OpenCV",
+              "description": "Jason Chin (University of Western Ontario)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117383453,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-02-21T21:03:57Z",
+                "owner": "jrobchin",
+                "repo": "Computer-Vision-Basics-with-Python-Keras-and-OpenCV",
+                "stars": 436
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blogs"
+        },
         {
           "children": [
             {
@@ -1106,7 +1333,7 @@
                 "last_commit": "2025-05-26T12:28:00Z",
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28805
+                "stars": 28804
               }
             }
           ],
@@ -1119,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:25:32.996Z",
+    "last_updated": "2026-08-24T13:45:40.817Z",
     "original_repository": "jbhuang0604/awesome-computer-vision",
     "original_repository_id": 29357796,
     "original_repository_sha": "9b82b1645aecdc9b895fc378d5209a9f6672bb15",
