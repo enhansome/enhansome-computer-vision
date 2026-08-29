@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A topic-centric list of HQ open datasets.",
+            "homepage": "https://awesomedataworld.slack.com",
             "id": 26898879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T16:22:22Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78692
+            "stars": 78694,
+            "topics": [
+              "aaron-swartz",
+              "awesome-public-datasets",
+              "datasets",
+              "opendata"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "homepage": null,
             "id": 21872392,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:29:10Z",
+            "open_issues": 29,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74202
+            "stars": 74202,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -42,12 +57,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+            "homepage": null,
             "id": 28723659,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-26T12:28:00Z",
+            "open_issues": 84,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28827
+            "stars": 28829,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "deep-learning-tutorial",
+              "deep-networks",
+              "face-images",
+              "machine-learning",
+              "neural-network",
+              "recurrent-networks"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -58,12 +88,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+            "homepage": "https://ethicalml.github.io/awesome-production-machine-learning",
             "id": 144863525,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-26T05:40:57Z",
+            "open_issues": 32,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20877
+            "stars": 20877,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-mining",
+              "deep-learning",
+              "explainability",
+              "interpretability",
+              "large-scale-machine-learning",
+              "large-scale-ml",
+              "machine-learning",
+              "machine-learning-operations",
+              "ml-operations",
+              "ml-ops",
+              "mlops",
+              "privacy-preserving",
+              "privacy-preserving-machine-learning",
+              "privacy-preserving-ml",
+              "production-machine-learning",
+              "production-ml",
+              "responsible-ai"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -74,12 +129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of deep learning resources for computer vision ",
+            "homepage": null,
             "id": 35812923,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-15T10:52:15Z",
+            "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11186
+            "stars": 11186,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -90,12 +150,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A resource repository for 3D machine learning",
+            "homepage": null,
             "id": 100120455,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-04T19:13:09Z",
+            "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10196
+            "stars": 10196,
+            "topics": [
+              "3d",
+              "3d-reconstruction",
+              "constructive-solid-geometries",
+              "machine-learning",
+              "mesh",
+              "neural-networks",
+              "papers",
+              "point-cloud",
+              "primitives",
+              "voxel"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -106,12 +182,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
+            "homepage": null,
             "id": 128416044,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-17T04:28:58Z",
+            "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7506
+            "stars": 7506,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "detection",
+              "object-detection",
+              "object-localisation"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -122,12 +209,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome Robotics resources",
+            "homepage": null,
             "id": 46938122,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-09-22T20:24:10Z",
+            "open_issues": 38,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 6986
+            "stars": 6986,
+            "topics": [
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -138,12 +232,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome neural radiance fields papers",
+            "homepage": null,
             "id": 316280031,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-01-06T11:03:37Z",
+            "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6774,
+            "topics": [
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -154,12 +255,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of AWESOME things about domain adaptation",
+            "homepage": null,
             "id": 133200031,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-12-08T06:04:32Z",
+            "open_issues": 0,
             "owner": "zhaoxin94",
             "repo": "awesome-domain-adaptation",
-            "stars": 5456
+            "stars": 5456,
+            "topics": [
+              "adversarial-learning",
+              "awesome-list",
+              "domain-adaptation",
+              "few-shot-learning",
+              "image-translation",
+              "optimal-transport",
+              "paper",
+              "transfer-learning",
+              "zero-shot-learning"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -170,12 +286,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome GAN applications and demo",
+            "homepage": null,
             "id": 106639043,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-08T10:40:14Z",
+            "open_issues": 20,
             "owner": "nashory",
             "repo": "gans-awesome-applications",
-            "stars": 5102
+            "stars": 5102,
+            "topics": [
+              "applications",
+              "curated-list",
+              "demonstration",
+              "generative-adversarial-network",
+              "github",
+              "papers"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -186,12 +314,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
+            "homepage": null,
             "id": 156818789,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-09T07:02:58Z",
+            "open_issues": 10,
             "owner": "ChanChiChoi",
             "repo": "awesome-Face_Recognition",
-            "stars": 4754
+            "stars": 4754,
+            "topics": [
+              "face-alignment",
+              "face-detection",
+              "face-generation",
+              "face-recognition",
+              "face-reconstruction",
+              "face-retrieval",
+              "face-superresolution",
+              "face-tracking",
+              "face-transfer"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -202,12 +345,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome responsible machine learning resources.",
+            "homepage": null,
             "id": 138181193,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-03T15:17:31Z",
+            "open_issues": 27,
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4062
+            "stars": 4062,
+            "topics": [
+              "ai-safety",
+              "awesome",
+              "awesome-list",
+              "data-science",
+              "explainable-ml",
+              "fairness",
+              "interpretability",
+              "interpretable-ai",
+              "interpretable-machine-learning",
+              "interpretable-ml",
+              "machine-learning",
+              "machine-learning-interpretability",
+              "privacy-enhancing-technologies",
+              "privacy-preserving-machine-learning",
+              "python",
+              "r",
+              "reliable-ai",
+              "secure-ml",
+              "transparency",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -218,12 +387,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of action recognition and related area resources",
+            "homepage": null,
             "id": 68941669,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-13T17:00:12Z",
+            "open_issues": 1,
             "owner": "jinwchoi",
             "repo": "awesome-action-recognition",
-            "stars": 4016
+            "stars": 4016,
+            "topics": [
+              "action-classification",
+              "action-detection",
+              "action-recognition",
+              "activity-recognition",
+              "activity-understanding",
+              "awesome",
+              "awesome-list",
+              "object-recognition",
+              "pose-estimation",
+              "video-processing",
+              "video-recognition",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -234,12 +421,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
+            "homepage": null,
             "id": 318087408,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-07T01:59:49Z",
+            "open_issues": 3,
             "owner": "dk-liang",
             "repo": "Awesome-Visual-Transformer",
-            "stars": 3592
+            "stars": 3592,
+            "topics": [
+              "detr",
+              "transformer",
+              "transformer-awesome",
+              "transformer-cv",
+              "transformer-with-cv",
+              "visual-transformer"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -250,12 +449,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of deep learning image classification papers and codes",
+            "homepage": null,
             "id": 4420796,
             "language": null,
+            "license": null,
             "last_commit": "2022-04-20T15:52:51Z",
+            "open_issues": 1,
             "owner": "weiaicunzai",
             "repo": "awesome-image-classification",
-            "stars": 3064
+            "stars": 3064,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-vision",
+              "deep-learning",
+              "image-classification",
+              "papers"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -266,12 +477,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Image and Video Deblurring",
+            "homepage": null,
             "id": 197458822,
             "language": null,
+            "license": null,
             "last_commit": "2025-06-29T07:34:16Z",
+            "open_issues": 1,
             "owner": "subeeshvasu",
             "repo": "Awesome-Deblurring",
-            "stars": 2912
+            "stars": 2912,
+            "topics": [
+              "burst-deblurring",
+              "camera-shake",
+              "deblurring",
+              "deep-learning",
+              "defocus-blur",
+              "defocus-deblurring",
+              "image-deblurring",
+              "image-deconvolution",
+              "kernel-estimation",
+              "motion-blur",
+              "motion-deblurring",
+              "restoration",
+              "stereo-deblurring",
+              "video-deblurring"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -282,12 +513,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome anomaly detection resources",
+            "homepage": null,
             "id": 146555808,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-20T09:33:40Z",
+            "open_issues": 9,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2901
+            "stars": 2901,
+            "topics": [
+              "anomaly",
+              "anomaly-detection",
+              "anomalydetection",
+              "awesome",
+              "awesome-anomaly-detection",
+              "awesomeanomalydetection",
+              "deep-learning",
+              "machine-learning",
+              "machinelearning"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -298,12 +544,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Learning with Noisy Labels",
+            "homepage": null,
             "id": 197372529,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-03T11:47:41Z",
+            "open_issues": 3,
             "owner": "subeeshvasu",
             "repo": "Awesome-Learning-with-Label-Noise",
-            "stars": 2717
+            "stars": 2717,
+            "topics": [
+              "deep-neural-networks",
+              "label-noise",
+              "noisy-data",
+              "noisy-labels",
+              "robust-learning",
+              "unreliable-labels"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -314,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources on implicit neural representations.",
+            "homepage": null,
             "id": 325088993,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-02-11T22:48:44Z",
+            "open_issues": 7,
             "owner": "vsitzmann",
             "repo": "awesome-implicit-representations",
-            "stars": 2647
+            "stars": 2647,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -330,12 +593,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of papers, datasets, code and other resources for object tracking and detection using deep learning",
+            "homepage": null,
             "id": 91124187,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-03-09T08:39:53Z",
+            "open_issues": 5,
             "owner": "abhineet123",
             "repo": "Deep-Learning-for-Tracking-and-Detection",
-            "stars": 2513
+            "stars": 2513,
+            "topics": [
+              "code-collection",
+              "deep-learning",
+              "detection",
+              "object-detection",
+              "optical-flow",
+              "paper-collection",
+              "papers",
+              "segmentation",
+              "tracking",
+              "tracking-by-detection"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -346,12 +625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome free (stock) photo resources inspired by all the other awesomes.",
+            "homepage": null,
             "id": 22304234,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-06T09:21:22Z",
+            "open_issues": 4,
             "owner": "heyalexej",
             "repo": "awesome-images",
-            "stars": 2509
+            "stars": 2509,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -362,12 +646,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources of Neural Rendering",
+            "homepage": null,
             "id": 254363037,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-16T09:04:05Z",
+            "open_issues": 0,
             "owner": "weihaox",
             "repo": "awesome-neural-rendering",
-            "stars": 2357
+            "stars": 2357,
+            "topics": [
+              "awesome-list",
+              "computer-graphics",
+              "computer-vision",
+              "neural-rendering",
+              "neural-representations"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -378,12 +673,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of image inpainting and video inpainting papers and resources",
+            "homepage": null,
             "id": 146686946,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-09T13:30:33Z",
+            "open_issues": 6,
             "owner": "zengyh1900",
             "repo": "Awesome-Image-Inpainting",
-            "stars": 2179
+            "stars": 2179,
+            "topics": [
+              "face-completion",
+              "image-inpainting",
+              "paper-list",
+              "video-inpainting"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -394,12 +699,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome adversarial machine learning resources",
+            "homepage": null,
             "id": 76821215,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-26T16:09:26Z",
+            "open_issues": 5,
             "owner": "yenchenlin",
             "repo": "awesome-adversarial-machine-learning",
-            "stars": 1910
+            "stars": 1910,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -410,12 +720,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A  collection of research materials on explainable AI/ML",
+            "homepage": null,
             "id": 240843379,
             "language": "Markdown",
+            "license": "MIT",
             "last_commit": "2026-08-19T02:09:45Z",
+            "open_issues": 0,
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1649
+            "stars": 1649,
+            "topics": [
+              "counterfactual-explanations",
+              "explainable-ai",
+              "explanation-system",
+              "interpretability",
+              "interpretable-ai",
+              "recourse",
+              "xai",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -426,12 +750,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Document Understanding (DU) topic",
+            "homepage": null,
             "id": 355337917,
             "language": null,
+            "license": null,
             "last_commit": "2023-06-02T03:56:06Z",
+            "open_issues": 12,
             "owner": "tstanislawek",
             "repo": "awesome-document-understanding",
-            "stars": 1537
+            "stars": 1537,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "document-ai",
+              "document-analysis",
+              "document-intelligence",
+              "document-layout-analysis",
+              "document-understanding",
+              "information-extraction",
+              "intelligent-processing",
+              "key-information-extraction",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "ocr",
+              "pdf",
+              "pdf-documents",
+              "robotic-process-automation",
+              "rpa",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -442,12 +792,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human Pose Estimation Related Publication",
+            "homepage": null,
             "id": 154894504,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-07T18:44:25Z",
+            "open_issues": 6,
             "owner": "wangzheallen",
             "repo": "awesome-human-pose-estimation",
-            "stars": 1374
+            "stars": 1374,
+            "topics": [
+              "2d-human-pose",
+              "3d-human-mesh",
+              "3d-human-pose",
+              "domain-knowdge",
+              "human-env-interaction",
+              "human-generation",
+              "human-pose-estimation",
+              "human-scene-interaction",
+              "motion-capture",
+              "motion-planning",
+              "motion-prediction",
+              "paper-reading",
+              "pose-and-language",
+              "pose-dataset",
+              "pose-focasting",
+              "pose-generation",
+              "real-time-pose-estimation",
+              "video-pose-estimation"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -458,12 +832,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human Pose Estimation Related Publication",
+            "homepage": null,
             "id": 154894504,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-07T18:44:25Z",
+            "open_issues": 6,
             "owner": "wangzheallen",
             "repo": "awesome-human-pose-estimation",
-            "stars": 1374
+            "stars": 1374,
+            "topics": [
+              "2d-human-pose",
+              "3d-human-mesh",
+              "3d-human-pose",
+              "domain-knowdge",
+              "human-env-interaction",
+              "human-generation",
+              "human-pose-estimation",
+              "human-scene-interaction",
+              "motion-capture",
+              "motion-planning",
+              "motion-prediction",
+              "paper-reading",
+              "pose-and-language",
+              "pose-dataset",
+              "pose-focasting",
+              "pose-generation",
+              "real-time-pose-estimation",
+              "video-pose-estimation"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -474,12 +872,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of awesome resources on image-to-image translation.",
+            "homepage": null,
             "id": 203517539,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-09-20T11:58:02Z",
+            "open_issues": 0,
             "owner": "weihaox",
             "repo": "awesome-image-translation",
-            "stars": 1239
+            "stars": 1239,
+            "topics": [
+              "awesome-list",
+              "computer-graphics",
+              "computer-vision",
+              "image-generation",
+              "image-translation"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -490,12 +899,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recent Advances in Vision and Language PreTrained Models (VL-PTMs)",
+            "homepage": null,
             "id": 249945571,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-19T04:55:18Z",
+            "open_issues": 9,
             "owner": "yuewang-cuhk",
             "repo": "awesome-vision-language-pretraining-papers",
-            "stars": 1160
+            "stars": 1160,
+            "topics": [
+              "bert",
+              "multimodal-deep-learning",
+              "pretraining",
+              "vision-and-language",
+              "vl-ptms"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -506,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of computer graphics tutorials and resources",
+            "homepage": null,
             "id": 48450988,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2020-02-29T22:27:34Z",
+            "open_issues": 3,
             "owner": "ericjang",
             "repo": "awesome-graphics",
-            "stars": 1117
+            "stars": 1117,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -522,12 +947,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔧 A curated list of awesome dataset tools",
+            "homepage": null,
             "id": 200402977,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-06-09T15:42:07Z",
+            "open_issues": 7,
             "owner": "jsbroks",
             "repo": "awesome-dataset-tools",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "annotation-tool",
+              "annotations",
+              "awsome",
+              "awsome-list",
+              "datasets",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -538,12 +975,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 face releated algorithm, dataset and paper ",
+            "homepage": null,
             "id": 133211470,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-08-27T15:13:39Z",
+            "open_issues": 3,
             "owner": "polarisZhao",
             "repo": "awesome-face",
-            "stars": 916
+            "stars": 916,
+            "topics": [
+              "dataset",
+              "face",
+              "face-detection",
+              "face-recognition",
+              "face-releated-algorithm",
+              "paper",
+              "papers"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -554,12 +1004,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Papers, code and datasets about deep learning and multi-modal learning for video analysis",
+            "homepage": null,
             "id": 94295092,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-10-10T10:18:12Z",
+            "open_issues": 2,
             "owner": "HuaizhengZhang",
             "repo": "Awsome-Deep-Learning-for-Video-Analysis",
-            "stars": 846
+            "stars": 846,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "multimodal-learning",
+              "paper",
+              "video-analysis",
+              "video-classification",
+              "video-dataset"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -570,12 +1033,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "😎 A list of awesome scene understanding papers.",
+            "homepage": null,
             "id": 174960145,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-08-07T03:57:02Z",
+            "open_issues": 0,
             "owner": "bertjiazheng",
             "repo": "awesome-scene-understanding",
-            "stars": 820
+            "stars": 820,
+            "topics": [
+              "3d-scene",
+              "awesome",
+              "computer-vision",
+              "deep-learning",
+              "indoor-scenes",
+              "scene-understanding"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -586,12 +1061,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reading list for research topics in embodied vision",
+            "homepage": null,
             "id": 277348364,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-13T18:55:49Z",
+            "open_issues": 4,
             "owner": "ChanganVR",
             "repo": "awesome-embodied-vision",
-            "stars": 706
+            "stars": 706,
+            "topics": [
+              "awesome-list",
+              "curated-list",
+              "embodied-vision",
+              "visual-exploration",
+              "visual-navigation",
+              "vln"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -602,12 +1089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of deep learning resources for video-text retrieval.",
+            "homepage": null,
             "id": 242284296,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-20T12:55:58Z",
+            "open_issues": 2,
             "owner": "danieljf24",
             "repo": "awesome-video-text-retrieval",
-            "stars": 645
+            "stars": 645,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -618,12 +1110,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful datasets for robotics and computer vision",
+            "homepage": "https://mint-lab.github.io/awesome-robotics-datasets/",
             "id": 130785763,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-26T19:34:00Z",
+            "open_issues": 3,
             "owner": "mint-lab",
             "repo": "awesome-robotics-datasets",
-            "stars": 516
+            "stars": 516,
+            "topics": [
+              "computer-vision",
+              "dataset",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -634,12 +1135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of deep learning based methods for HDR image synthesis",
+            "homepage": null,
             "id": 187169778,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-25T08:01:46Z",
+            "open_issues": 2,
             "owner": "vinthony",
             "repo": "awesome-deep-hdr",
-            "stars": 420
+            "stars": 420,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -650,12 +1156,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of resources about deep learning solutions on 3D shape processing",
+            "homepage": null,
             "id": 253276985,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-23T17:40:42Z",
+            "open_issues": 0,
             "owner": "subeeshvasu",
             "repo": "Awsome_Deep_Geometry_Learning",
-            "stars": 364
+            "stars": 364,
+            "topics": [
+              "3d-models",
+              "3d-reconstruction",
+              "3d-representation",
+              "3d-shapes",
+              "implicit-representions",
+              "meshes",
+              "point-cloud",
+              "primitives",
+              "shapes-learning",
+              "voxels"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -666,12 +1188,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Fairness in AI resources",
+            "homepage": null,
             "id": 215361399,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-09-15T22:19:22Z",
+            "open_issues": 7,
             "owner": "datamllab",
             "repo": "awesome-fairness-in-ai",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "ai",
+              "bias",
+              "deep-learning",
+              "fairness",
+              "gender-bias",
+              "interpretability",
+              "machine-learning",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -682,12 +1218,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources on handling Rolling Shutter effects and Radial Distortions",
+            "homepage": null,
             "id": 232984106,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-01T12:14:43Z",
+            "open_issues": 0,
             "owner": "subeeshvasu",
             "repo": "Awesome-Image-Distortion-Correction",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "calibration",
+              "cameras",
+              "distortion-correction",
+              "motion",
+              "radial-distortion",
+              "rolling-shutter-cameras",
+              "rolling-shutter-images"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -698,12 +1247,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Awesome Makeup Transfer resources",
+            "homepage": null,
             "id": 328918900,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-12-10T23:44:27Z",
+            "open_issues": 0,
             "owner": "thaoshibe",
             "repo": "awesome-makeup-transfer",
-            "stars": 282
+            "stars": 282,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "makeup-transfer"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -714,12 +1272,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for adversarial examples in deep learning",
+            "homepage": null,
             "id": 112234355,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-04T12:59:59Z",
+            "open_issues": 2,
             "owner": "chbrian",
             "repo": "awesome-adversarial-examples-dl",
-            "stars": 267
+            "stars": 267,
+            "topics": [
+              "adversarial-examples",
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -730,12 +1299,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of software that I use to do research in medical imaging.",
+            "homepage": null,
             "id": 153177069,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-17T16:32:38Z",
+            "open_issues": 1,
             "owner": "fepegar",
             "repo": "awesome-medical-imaging",
-            "stars": 249
+            "stars": 249,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "image-processing",
+              "machine-learning",
+              "medical-imaging",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -746,12 +1327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bolei's archive on generative modeling",
+            "homepage": null,
             "id": 287415182,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-04T02:17:18Z",
+            "open_issues": 0,
             "owner": "zhoubolei",
             "repo": "awesome-generative-modeling",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -762,12 +1348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome work on video generation and video representation learning, and related topics.",
+            "homepage": null,
             "id": 228813391,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-29T11:30:44Z",
+            "open_issues": 0,
             "owner": "matthewvowels1",
             "repo": "Awesome-Video-Generation",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -778,12 +1369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome selected resources towards the application of machine learning in Biomedical/Healthcare Imaging, inspired by",
+            "homepage": null,
             "id": 216646268,
             "language": null,
+            "license": null,
             "last_commit": "2019-10-22T03:27:52Z",
+            "open_issues": 0,
             "owner": "XindiWu",
             "repo": "Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -794,12 +1390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for 3D segmentation of neurites in EM images",
+            "homepage": null,
             "id": 217899449,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-11T09:16:39Z",
+            "open_issues": 0,
             "owner": "subeeshvasu",
             "repo": "Awesome-Neuron-Segmentation-in-EM-Images",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -810,12 +1411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources related to training of GANs",
+            "homepage": null,
             "id": 271662638,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-21T13:10:19Z",
+            "open_issues": 0,
             "owner": "subeeshvasu",
             "repo": "Awsome-GAN-Training",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -826,12 +1432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 240399288,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-05T12:23:26Z",
+            "open_issues": 0,
             "owner": "subeeshvasu",
             "repo": "Awsome_Delineation",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -842,12 +1453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 306002996,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-21T12:23:10Z",
+            "open_issues": 0,
             "owner": "subeeshvasu",
             "repo": "Awesome-ImageHarmonization",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         }
@@ -866,12 +1482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 143307024,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-12-06T11:59:42Z",
+                "open_issues": 2,
                 "owner": "sanko-shoko",
                 "repo": "gtmaker",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -889,12 +1510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library",
+                "homepage": "http://libccv.org",
                 "id": 912896,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T05:51:58Z",
+                "open_issues": 80,
                 "owner": "liuliu",
                 "repo": "ccv",
-                "stars": 7242
+                "stars": 7242,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             },
@@ -905,12 +1531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Python module for computer vision",
+                "homepage": null,
                 "id": 3873687,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-12-28T00:44:46Z",
+                "open_issues": 26,
                 "owner": "jesolem",
                 "repo": "PCV",
-                "stars": 1960
+                "stars": 1960,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -928,12 +1559,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of papers & resources linked to 3D reconstruction from images.",
+                "homepage": null,
                 "id": 65994875,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-10-12T04:37:11Z",
+                "open_issues": 6,
                 "owner": "openMVG",
                 "repo": "awesome_3DReconstruction_list",
-                "stars": 4419
+                "stars": 4419,
+                "topics": [
+                  "3d-reconstruction",
+                  "awesome-list",
+                  "computer-vision",
+                  "motion-estimation",
+                  "multiple-view-geometry",
+                  "opensource",
+                  "stereo-vision"
+                ]
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -951,12 +1595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ implementation of the Local Binary Pattern texture descriptors. This class integrates with OpenCV and FFTW3 to bring a complete and fast implementation of the popular descriptors: LBP u2, ri, riu2 & hf. The routines for calculating these descriptors are inspired by the Matlab code of the original authors.",
+                "homepage": null,
                 "id": 8120608,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2017-12-11T12:42:58Z",
+                "open_issues": 3,
                 "owner": "nourani",
                 "repo": "LBP",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -974,12 +1623,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave",
+                "homepage": null,
                 "id": 5613896,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-23T09:26:37Z",
+                "open_issues": 2,
                 "owner": "banterle",
                 "repo": "HDR_Toolbox",
-                "stars": 416
+                "stars": 416,
+                "topics": [
+                  "camera-response-function",
+                  "hdr",
+                  "hdr-compression",
+                  "high-dynamic-range",
+                  "imaging",
+                  "inverse-tonemapping",
+                  "matlab",
+                  "reverse-tone-mapping",
+                  "tone-mapping",
+                  "tonemapping"
+                ]
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -997,12 +1662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structured Edge Detection Toolbox",
+                "homepage": null,
                 "id": 25712432,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2019-12-02T22:40:33Z",
+                "open_issues": 18,
                 "owner": "pdollar",
                 "repo": "edges",
-                "stars": 837
+                "stars": 837,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             },
@@ -1013,12 +1683,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the superpixel algorithm called SEEDS [1].",
+                "homepage": "http://davidstutz.de/projects/superpixelsseeds/",
                 "id": 26121195,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-11-28T14:04:06Z",
+                "open_issues": 1,
                 "owner": "davidstutz",
                 "repo": "seeds-revised",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "computer-vision",
+                  "image-processing",
+                  "opencv",
+                  "superpixel-algorithm",
+                  "superpixels"
+                ]
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -1038,12 +1719,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Semi-direct Visual Odometry",
+                    "homepage": null,
                     "id": 17672262,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-08-22T21:27:36Z",
+                    "open_issues": 193,
                     "owner": "uzh-rpg",
                     "repo": "rpg_svo",
-                    "stars": 2230
+                    "stars": 2230,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
                 },
@@ -1054,12 +1740,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[Siggraph Asia 2013] Large-Scale, Real-Time 3D Reconstruction",
+                    "homepage": null,
                     "id": 20628988,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-10-28T19:17:06Z",
+                    "open_issues": 12,
                     "owner": "niessner",
                     "repo": "VoxelHashing",
-                    "stars": 709
+                    "stars": 709,
+                    "topics": [
+                      "3d-reconstruction",
+                      "computer-vision",
+                      "kinect"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
                 },
@@ -1070,12 +1765,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dense Visual Odometry and SLAM",
+                    "homepage": null,
                     "id": 12110125,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2016-09-21T19:57:35Z",
+                    "open_issues": 53,
                     "owner": "tum-vision",
                     "repo": "dvo_slam",
-                    "stars": 669
+                    "stars": 669,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
                 },
@@ -1086,12 +1786,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Optimized and reworked version of Kinfu",
+                    "homepage": null,
                     "id": 17804076,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2019-02-28T11:14:23Z",
+                    "open_issues": 26,
                     "owner": "Nerei",
                     "repo": "kinfu_remake",
-                    "stars": 344
+                    "stars": 344,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
                 },
@@ -1102,12 +1807,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is an implementation sketch of the KinectFusion system described by Newcombe et al. ",
+                    "homepage": null,
                     "id": 3166962,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2015-04-11T01:28:12Z",
+                    "open_issues": 4,
                     "owner": "GerhardR",
                     "repo": "kfusion",
-                    "stars": 198
+                    "stars": 198,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
                 }
@@ -1125,12 +1835,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "g2o: A General Framework for Graph Optimization",
+                    "homepage": null,
                     "id": 3161336,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-08-24T19:33:04Z",
+                    "open_issues": 7,
                     "owner": "RainerKuemmerle",
                     "repo": "g2o",
-                    "stars": 3461
+                    "stars": 3461,
+                    "topics": [
+                      "c-plus-plus",
+                      "cpp",
+                      "g2o",
+                      "graph-optimization",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
                 }
@@ -1148,12 +1869,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LSD-SLAM",
+                    "homepage": null,
                     "id": 23995982,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-03-23T14:55:27Z",
+                    "open_issues": 240,
                     "owner": "tum-vision",
                     "repo": "lsd_slam",
-                    "stars": 2724
+                    "stars": 2724,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
                 },
@@ -1164,12 +1890,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Versatile and Accurate Monocular SLAM",
+                    "homepage": "http://webdiis.unizar.es/~raulmur/orbslam/",
                     "id": 31615024,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-09-18T00:48:53Z",
+                    "open_issues": 121,
                     "owner": "raulmur",
                     "repo": "ORB_SLAM",
-                    "stars": 1632
+                    "stars": 1632,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
                 }
@@ -1192,12 +1923,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matlab codes that convert a RGBD image into a cad like model. This code is released as a part of my PhD dissertation.",
+                "homepage": null,
                 "id": 23132355,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2014-08-23T15:34:25Z",
+                "open_issues": 2,
                 "owner": "arron2003",
                 "repo": "rgbd2full3d",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -1215,12 +1951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R-CNN: Regions with Convolutional Neural Network Features",
+                "homepage": null,
                 "id": 17728623,
                 "language": "Matlab",
+                "license": "BSD-2-Clause",
                 "last_commit": "2017-04-03T16:16:14Z",
+                "open_issues": 54,
                 "owner": "rbgirshick",
                 "repo": "rcnn",
-                "stars": 2416
+                "stars": 2416,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             },
@@ -1231,12 +1972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structured Edge Detection Toolbox",
+                "homepage": null,
                 "id": 25712432,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2019-12-02T22:40:33Z",
+                "open_issues": 18,
                 "owner": "pdollar",
                 "repo": "edges",
-                "stars": 837
+                "stars": 837,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             },
@@ -1247,12 +1993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Object detection system using deformable part models (DPMs) and latent SVM (voc-release5). You may want to use the latest tarball on my website. The github code may include code changes that have not been tested as thoroughly and will not necessarily reproduce the results on the website.",
+                "homepage": "http://www.cs.berkeley.edu/~rbg/latent/",
                 "id": 3684282,
                 "language": "Matlab",
+                "license": "MIT",
                 "last_commit": "2017-04-03T16:06:41Z",
+                "open_issues": 19,
                 "owner": "rbgirshick",
                 "repo": "voc-dpm",
-                "stars": 576
+                "stars": 576,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             },
@@ -1263,12 +2014,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPP_net : Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition",
+                "homepage": null,
                 "id": 24419330,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2016-07-11T08:56:26Z",
+                "open_issues": 19,
                 "owner": "ShaoqingRen",
                 "repo": "SPP_net",
-                "stars": 366
+                "stars": 366,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -1288,12 +2044,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 10575714,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2014-09-18T22:22:27Z",
+                    "open_issues": 1,
                     "owner": "fbesse",
                     "repo": "pmbp",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
                 }
@@ -1316,12 +2077,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of deep learning resources for computer vision ",
+                "homepage": null,
                 "id": 35812923,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-15T10:52:15Z",
+                "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11186
+                "stars": 11186,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -1339,12 +2105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -1368,12 +2139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full tutorial of computer vision and machine learning basics with OpenCV and Keras in Python.",
+                "homepage": null,
                 "id": 117383453,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-02-21T21:03:57Z",
+                "open_issues": 1,
                 "owner": "jrobchin",
                 "repo": "Computer-Vision-Basics-with-Python-Keras-and-OpenCV",
-                "stars": 436
+                "stars": 436,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -1391,12 +2167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             },
@@ -1407,12 +2188,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Deep Learning tutorials, projects and communities.",
+                "homepage": null,
                 "id": 28723659,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-26T12:28:00Z",
+                "open_issues": 84,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28827
+                "stars": 28829,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "deep-learning-tutorial",
+                  "deep-networks",
+                  "face-images",
+                  "machine-learning",
+                  "neural-network",
+                  "recurrent-networks"
+                ]
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
             }
@@ -1426,15 +2222,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:28:31.641Z",
+    "last_updated": "2026-08-29T04:10:01.092Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome computer vision resources",
+      "homepage": null,
       "id": 29357796,
       "language": null,
+      "license": null,
       "last_commit": "2024-05-17T14:24:27Z",
+      "open_issues": 92,
       "owner": "jbhuang0604",
       "repo": "awesome-computer-vision",
-      "stars": 23520
+      "stars": 23520,
+      "topics": []
     },
     "original_repository_sha": "9b82b1645aecdc9b895fc378d5209a9f6672bb15",
     "enhanced_repository": "enhansome/enhansome-computer-vision",
