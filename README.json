@@ -15,11 +15,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-01T15:28:08Z",
+            "last_commit": "2026-10-02T17:41:02Z",
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79269,
+            "stars": 79273,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -45,7 +45,7 @@
             "open_issues": 22,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74503,
+            "stars": 74511,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -66,7 +66,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28995,
+            "stars": 29001,
             "topics": [
               "awesome",
               "awesome-list",
@@ -93,11 +93,11 @@
             "id": 144863525,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-01T05:03:56Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-02T10:16:45Z",
+            "open_issues": 38,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20963,
+            "stars": 20966,
             "topics": [
               "awesome",
               "awesome-list",
@@ -218,7 +218,7 @@
             "open_issues": 43,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7213,
+            "stars": 7212,
             "topics": [
               "robotics"
             ]
@@ -729,7 +729,7 @@
             "open_issues": 1,
             "owner": "wangyongjie-ntu",
             "repo": "Awesome-explainable-AI",
-            "stars": 1656,
+            "stars": 1657,
             "topics": [
               "counterfactual-explanations",
               "explainable-ai",
@@ -1067,7 +1067,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-06-13T18:55:49Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "ChanganVR",
             "repo": "awesome-embodied-vision",
             "stars": 710,
@@ -1519,7 +1519,7 @@
                 "open_issues": 80,
                 "owner": "liuliu",
                 "repo": "ccv",
-                "stars": 7241,
+                "stars": 7242,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -1960,7 +1960,7 @@
                 "open_issues": 54,
                 "owner": "rbgirshick",
                 "repo": "rcnn",
-                "stars": 2417,
+                "stars": 2418,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2114,7 +2114,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74503,
+                "stars": 74511,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2176,7 +2176,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74503,
+                "stars": 74511,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2197,7 +2197,7 @@
                 "open_issues": 88,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28995,
+                "stars": 29001,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2222,7 +2222,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:28:27.142Z",
+    "last_updated": "2026-10-02T17:54:56.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome computer vision resources",
