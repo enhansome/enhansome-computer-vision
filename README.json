@@ -15,11 +15,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-13T19:12:13Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-13T20:57:00Z",
+            "open_issues": 165,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79475,
+            "stars": 79486,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -45,7 +45,7 @@
             "open_issues": 25,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74579,
+            "stars": 74582,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -66,7 +66,7 @@
             "open_issues": 88,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29043,
+            "stars": 29049,
             "topics": [
               "awesome",
               "awesome-list",
@@ -97,7 +97,7 @@
             "open_issues": 41,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 21004,
+            "stars": 21009,
             "topics": [
               "awesome",
               "awesome-list",
@@ -138,7 +138,7 @@
             "open_issues": 48,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11190,
+            "stars": 11191,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -191,7 +191,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7510,
+            "stars": 7509,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -215,10 +215,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-09-22T20:24:10Z",
-            "open_issues": 45,
+            "open_issues": 47,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7234,
+            "stars": 7237,
             "topics": [
               "robotics"
             ]
@@ -354,7 +354,7 @@
             "open_issues": 27,
             "owner": "jphall663",
             "repo": "awesome-machine-learning-interpretability",
-            "stars": 4073,
+            "stars": 4074,
             "topics": [
               "ai-safety",
               "awesome",
@@ -458,7 +458,7 @@
             "open_issues": 1,
             "owner": "weiaicunzai",
             "repo": "awesome-image-classification",
-            "stars": 3067,
+            "stars": 3066,
             "topics": [
               "awesome",
               "awesome-list",
@@ -486,7 +486,7 @@
             "open_issues": 1,
             "owner": "subeeshvasu",
             "repo": "Awesome-Deblurring",
-            "stars": 2918,
+            "stars": 2919,
             "topics": [
               "burst-deblurring",
               "camera-shake",
@@ -759,7 +759,7 @@
             "open_issues": 15,
             "owner": "tstanislawek",
             "repo": "awesome-document-understanding",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "awesome",
               "awesome-list",
@@ -801,7 +801,7 @@
             "open_issues": 6,
             "owner": "wangzheallen",
             "repo": "awesome-human-pose-estimation",
-            "stars": 1377,
+            "stars": 1378,
             "topics": [
               "2d-human-pose",
               "3d-human-mesh",
@@ -841,7 +841,7 @@
             "open_issues": 6,
             "owner": "wangzheallen",
             "repo": "awesome-human-pose-estimation",
-            "stars": 1377,
+            "stars": 1378,
             "topics": [
               "2d-human-pose",
               "3d-human-mesh",
@@ -1213,35 +1213,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome Image Distortion Correction",
-          "description": "subeeshvasu/Awesome-Image-Distortion-Correction",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources on handling Rolling Shutter effects and Radial Distortions",
-            "homepage": null,
-            "id": 232984106,
-            "language": null,
-            "license": null,
-            "last_commit": "2023-07-01T12:14:43Z",
-            "open_issues": 0,
-            "owner": "subeeshvasu",
-            "repo": "Awesome-Image-Distortion-Correction",
-            "stars": 284,
-            "topics": [
-              "calibration",
-              "cameras",
-              "distortion-correction",
-              "motion",
-              "radial-distortion",
-              "rolling-shutter-cameras",
-              "rolling-shutter-images"
-            ]
-          },
-          "first_seen": "2026-08-28T22:28:31.641Z"
-        },
-        {
-          "node_type": "item",
           "title": "Awesome Makeup Transfer",
           "description": "thaoshibe/awesome-makeup-transfer",
           "children": [],
@@ -1256,11 +1227,40 @@
             "open_issues": 0,
             "owner": "thaoshibe",
             "repo": "awesome-makeup-transfer",
-            "stars": 283,
+            "stars": 284,
             "topics": [
               "awesome",
               "awesome-list",
               "makeup-transfer"
+            ]
+          },
+          "first_seen": "2026-08-28T22:28:31.641Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Image Distortion Correction",
+          "description": "subeeshvasu/Awesome-Image-Distortion-Correction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of resources on handling Rolling Shutter effects and Radial Distortions",
+            "homepage": null,
+            "id": 232984106,
+            "language": null,
+            "license": null,
+            "last_commit": "2023-07-01T12:14:43Z",
+            "open_issues": 0,
+            "owner": "subeeshvasu",
+            "repo": "Awesome-Image-Distortion-Correction",
+            "stars": 283,
+            "topics": [
+              "calibration",
+              "cameras",
+              "distortion-correction",
+              "motion",
+              "radial-distortion",
+              "rolling-shutter-cameras",
+              "rolling-shutter-images"
             ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -1515,11 +1515,11 @@
                 "id": 912896,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T16:35:18Z",
+                "last_commit": "2026-10-13T23:53:42Z",
                 "open_issues": 81,
                 "owner": "liuliu",
                 "repo": "ccv",
-                "stars": 7247,
+                "stars": 7248,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -1728,7 +1728,7 @@
                     "open_issues": 193,
                     "owner": "uzh-rpg",
                     "repo": "rpg_svo",
-                    "stars": 2233,
+                    "stars": 2234,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
@@ -1899,7 +1899,7 @@
                     "open_issues": 121,
                     "owner": "raulmur",
                     "repo": "ORB_SLAM",
-                    "stars": 1633,
+                    "stars": 1634,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2114,7 +2114,7 @@
                 "open_issues": 48,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11190,
+                "stars": 11191,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2142,7 +2142,7 @@
                 "open_issues": 25,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74579,
+                "stars": 74582,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2204,7 +2204,7 @@
                 "open_issues": 25,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74579,
+                "stars": 74582,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2225,7 +2225,7 @@
                 "open_issues": 88,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29043,
+                "stars": 29049,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2250,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:22:13.993Z",
+    "last_updated": "2026-10-14T17:21:09.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome computer vision resources",
