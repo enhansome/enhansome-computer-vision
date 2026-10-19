@@ -15,11 +15,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-14T18:18:24Z",
+            "last_commit": "2026-10-19T17:54:00Z",
             "open_issues": 165,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79598,
+            "stars": 79630,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -41,11 +41,11 @@
             "id": 21872392,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T00:31:03Z",
+            "last_commit": "2026-10-19T13:14:32Z",
             "open_issues": 23,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74608,
+            "stars": 74617,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -66,7 +66,7 @@
             "open_issues": 91,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29062,
+            "stars": 29066,
             "topics": [
               "awesome",
               "awesome-list",
@@ -93,11 +93,11 @@
             "id": 144863525,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-08T06:45:24Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-18T18:09:27Z",
+            "open_issues": 41,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 21018,
+            "stars": 21017,
             "topics": [
               "awesome",
               "awesome-list",
@@ -159,7 +159,7 @@
             "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10207,
+            "stars": 10206,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -218,7 +218,7 @@
             "open_issues": 47,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7243,
+            "stars": 7246,
             "topics": [
               "robotics"
             ]
@@ -295,7 +295,7 @@
             "open_issues": 20,
             "owner": "nashory",
             "repo": "gans-awesome-applications",
-            "stars": 5101,
+            "stars": 5102,
             "topics": [
               "applications",
               "curated-list",
@@ -323,7 +323,7 @@
             "open_issues": 11,
             "owner": "ChanChiChoi",
             "repo": "awesome-Face_Recognition",
-            "stars": 4760,
+            "stars": 4761,
             "topics": [
               "face-alignment",
               "face-detection",
@@ -631,7 +631,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-06T09:21:22Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "heyalexej",
             "repo": "awesome-images",
             "stars": 2513,
@@ -759,7 +759,7 @@
             "open_issues": 16,
             "owner": "tstanislawek",
             "repo": "awesome-document-understanding",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1197,7 +1197,7 @@
             "open_issues": 6,
             "owner": "datamllab",
             "repo": "awesome-fairness-in-ai",
-            "stars": 338,
+            "stars": 339,
             "topics": [
               "ai",
               "bias",
@@ -1568,7 +1568,7 @@
                 "open_issues": 6,
                 "owner": "openMVG",
                 "repo": "awesome_3DReconstruction_list",
-                "stars": 4430,
+                "stars": 4431,
                 "topics": [
                   "3d-reconstruction",
                   "awesome-list",
@@ -1632,7 +1632,7 @@
                 "open_issues": 2,
                 "owner": "banterle",
                 "repo": "HDR_Toolbox",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "camera-response-function",
                   "hdr",
@@ -1844,7 +1844,7 @@
                     "open_issues": 5,
                     "owner": "RainerKuemmerle",
                     "repo": "g2o",
-                    "stars": 3471,
+                    "stars": 3473,
                     "topics": [
                       "c-plus-plus",
                       "cpp",
@@ -2086,7 +2086,7 @@
                 "open_issues": 30,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5508,
+                "stars": 5509,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:37:20.212Z"
@@ -2138,11 +2138,11 @@
                 "id": 21872392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T00:31:03Z",
+                "last_commit": "2026-10-19T13:14:32Z",
                 "open_issues": 23,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74608,
+                "stars": 74617,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2200,11 +2200,11 @@
                 "id": 21872392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T00:31:03Z",
+                "last_commit": "2026-10-19T13:14:32Z",
                 "open_issues": 23,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74608,
+                "stars": 74617,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2225,7 +2225,7 @@
                 "open_issues": 91,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29062,
+                "stars": 29066,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2250,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T15:58:54.589Z",
+    "last_updated": "2026-10-19T18:45:17.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome computer vision resources",
