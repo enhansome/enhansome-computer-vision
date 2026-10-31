@@ -19,7 +19,7 @@
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79856,
+            "stars": 79873,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -45,7 +45,7 @@
             "open_issues": 31,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74692,
+            "stars": 74697,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -66,7 +66,7 @@
             "open_issues": 92,
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 29114,
+            "stars": 29115,
             "topics": [
               "awesome",
               "awesome-list",
@@ -97,7 +97,7 @@
             "open_issues": 43,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 21061,
+            "stars": 21064,
             "topics": [
               "awesome",
               "awesome-list",
@@ -191,7 +191,7 @@
             "open_issues": 7,
             "owner": "amusi",
             "repo": "awesome-object-detection",
-            "stars": 7511,
+            "stars": 7513,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -218,7 +218,7 @@
             "open_issues": 48,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7271,
+            "stars": 7273,
             "topics": [
               "robotics"
             ]
@@ -472,6 +472,42 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome Deblurring",
+          "description": "subeeshvasu/Awesome-Deblurring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of resources for Image and Video Deblurring",
+            "homepage": null,
+            "id": 197458822,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-06-29T07:34:16Z",
+            "open_issues": 1,
+            "owner": "subeeshvasu",
+            "repo": "Awesome-Deblurring",
+            "stars": 2920,
+            "topics": [
+              "burst-deblurring",
+              "camera-shake",
+              "deblurring",
+              "deep-learning",
+              "defocus-blur",
+              "defocus-deblurring",
+              "image-deblurring",
+              "image-deconvolution",
+              "kernel-estimation",
+              "motion-blur",
+              "motion-deblurring",
+              "restoration",
+              "stereo-deblurring",
+              "video-deblurring"
+            ]
+          },
+          "first_seen": "2026-08-28T22:28:31.641Z"
+        },
+        {
+          "node_type": "item",
           "title": "Awesome Anomaly Detection",
           "description": "hoya012/awesome-anomaly-detection",
           "children": [],
@@ -497,42 +533,6 @@
               "deep-learning",
               "machine-learning",
               "machinelearning"
-            ]
-          },
-          "first_seen": "2026-08-28T22:28:31.641Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deblurring",
-          "description": "subeeshvasu/Awesome-Deblurring",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources for Image and Video Deblurring",
-            "homepage": null,
-            "id": 197458822,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-06-29T07:34:16Z",
-            "open_issues": 1,
-            "owner": "subeeshvasu",
-            "repo": "Awesome-Deblurring",
-            "stars": 2919,
-            "topics": [
-              "burst-deblurring",
-              "camera-shake",
-              "deblurring",
-              "deep-learning",
-              "defocus-blur",
-              "defocus-deblurring",
-              "image-deblurring",
-              "image-deconvolution",
-              "kernel-estimation",
-              "motion-blur",
-              "motion-deblurring",
-              "restoration",
-              "stereo-deblurring",
-              "video-deblurring"
             ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -588,6 +588,38 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome Deep Learning for Tracking and Detection",
+          "description": "abhineet123/Deep-Learning-for-Tracking-and-Detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Collection of papers, datasets, code and other resources for object tracking and detection using deep learning",
+            "homepage": null,
+            "id": 91124187,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-03-09T08:39:53Z",
+            "open_issues": 5,
+            "owner": "abhineet123",
+            "repo": "Deep-Learning-for-Tracking-and-Detection",
+            "stars": 2516,
+            "topics": [
+              "code-collection",
+              "deep-learning",
+              "detection",
+              "object-detection",
+              "optical-flow",
+              "paper-collection",
+              "papers",
+              "segmentation",
+              "tracking",
+              "tracking-by-detection"
+            ]
+          },
+          "first_seen": "2026-08-28T22:28:31.641Z"
+        },
+        {
+          "node_type": "item",
           "title": "Awesome Images",
           "description": "heyalexej/awesome-images",
           "children": [],
@@ -604,38 +636,6 @@
             "repo": "awesome-images",
             "stars": 2515,
             "topics": []
-          },
-          "first_seen": "2026-08-28T22:28:31.641Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Deep Learning for Tracking and Detection",
-          "description": "abhineet123/Deep-Learning-for-Tracking-and-Detection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Collection of papers, datasets, code and other resources for object tracking and detection using deep learning",
-            "homepage": null,
-            "id": 91124187,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2026-03-09T08:39:53Z",
-            "open_issues": 5,
-            "owner": "abhineet123",
-            "repo": "Deep-Learning-for-Tracking-and-Detection",
-            "stars": 2515,
-            "topics": [
-              "code-collection",
-              "deep-learning",
-              "detection",
-              "object-detection",
-              "optical-flow",
-              "paper-collection",
-              "papers",
-              "segmentation",
-              "tracking",
-              "tracking-by-detection"
-            ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
         },
@@ -708,7 +708,7 @@
             "open_issues": 5,
             "owner": "yenchenlin",
             "repo": "awesome-adversarial-machine-learning",
-            "stars": 1917,
+            "stars": 1918,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -908,7 +908,7 @@
             "open_issues": 10,
             "owner": "yuewang-cuhk",
             "repo": "awesome-vision-language-pretraining-papers",
-            "stars": 1160,
+            "stars": 1161,
             "topics": [
               "bert",
               "multimodal-deep-learning",
@@ -1519,7 +1519,7 @@
                 "open_issues": 83,
                 "owner": "liuliu",
                 "repo": "ccv",
-                "stars": 7250,
+                "stars": 7251,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -1844,7 +1844,7 @@
                     "open_issues": 5,
                     "owner": "RainerKuemmerle",
                     "repo": "g2o",
-                    "stars": 3477,
+                    "stars": 3478,
                     "topics": [
                       "c-plus-plus",
                       "cpp",
@@ -1878,7 +1878,7 @@
                     "open_issues": 240,
                     "owner": "tum-vision",
                     "repo": "lsd_slam",
-                    "stars": 2732,
+                    "stars": 2733,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2086,7 +2086,7 @@
                 "open_issues": 31,
                 "owner": "karpathy",
                 "repo": "neuraltalk",
-                "stars": 5512,
+                "stars": 5513,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:37:20.212Z"
@@ -2142,7 +2142,7 @@
                 "open_issues": 31,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74692,
+                "stars": 74697,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2204,7 +2204,7 @@
                 "open_issues": 31,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74692,
+                "stars": 74697,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2225,7 +2225,7 @@
                 "open_issues": 92,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29114,
+                "stars": 29115,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2250,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:05:22.665Z",
+    "last_updated": "2026-10-31T17:16:46.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome computer vision resources",
@@ -2262,7 +2262,7 @@
       "open_issues": 99,
       "owner": "jbhuang0604",
       "repo": "awesome-computer-vision",
-      "stars": 23626,
+      "stars": 23627,
       "topics": []
     },
     "original_repository_sha": "9b82b1645aecdc9b895fc378d5209a9f6672bb15",
