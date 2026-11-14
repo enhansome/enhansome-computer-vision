@@ -15,11 +15,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-13T17:17:00Z",
+            "last_commit": "2026-11-14T15:52:54Z",
             "open_issues": 169,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 80104,
+            "stars": 80114,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -45,7 +45,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74817,
+            "stars": 74828,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -97,7 +97,7 @@
             "open_issues": 44,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 21099,
+            "stars": 21102,
             "topics": [
               "awesome",
               "awesome-list",
@@ -138,7 +138,7 @@
             "open_issues": 47,
             "owner": "kjw0612",
             "repo": "awesome-deep-vision",
-            "stars": 11193,
+            "stars": 11194,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -218,7 +218,7 @@
             "open_issues": 53,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
-            "stars": 7304,
+            "stars": 7309,
             "topics": [
               "robotics"
             ]
@@ -472,42 +472,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome Deblurring",
-          "description": "subeeshvasu/Awesome-Deblurring",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources for Image and Video Deblurring",
-            "homepage": null,
-            "id": 197458822,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-06-29T07:34:16Z",
-            "open_issues": 1,
-            "owner": "subeeshvasu",
-            "repo": "Awesome-Deblurring",
-            "stars": 2922,
-            "topics": [
-              "burst-deblurring",
-              "camera-shake",
-              "deblurring",
-              "deep-learning",
-              "defocus-blur",
-              "defocus-deblurring",
-              "image-deblurring",
-              "image-deconvolution",
-              "kernel-estimation",
-              "motion-blur",
-              "motion-deblurring",
-              "restoration",
-              "stereo-deblurring",
-              "video-deblurring"
-            ]
-          },
-          "first_seen": "2026-08-28T22:28:31.641Z"
-        },
-        {
-          "node_type": "item",
           "title": "Awesome Anomaly Detection",
           "description": "hoya012/awesome-anomaly-detection",
           "children": [],
@@ -533,6 +497,42 @@
               "deep-learning",
               "machine-learning",
               "machinelearning"
+            ]
+          },
+          "first_seen": "2026-08-28T22:28:31.641Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Deblurring",
+          "description": "subeeshvasu/Awesome-Deblurring",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of resources for Image and Video Deblurring",
+            "homepage": null,
+            "id": 197458822,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-06-29T07:34:16Z",
+            "open_issues": 1,
+            "owner": "subeeshvasu",
+            "repo": "Awesome-Deblurring",
+            "stars": 2921,
+            "topics": [
+              "burst-deblurring",
+              "camera-shake",
+              "deblurring",
+              "deep-learning",
+              "defocus-blur",
+              "defocus-deblurring",
+              "image-deblurring",
+              "image-deconvolution",
+              "kernel-estimation",
+              "motion-blur",
+              "motion-deblurring",
+              "restoration",
+              "stereo-deblurring",
+              "video-deblurring"
             ]
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -759,7 +759,7 @@
             "open_issues": 16,
             "owner": "tstanislawek",
             "repo": "awesome-document-understanding",
-            "stars": 1546,
+            "stars": 1547,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1519,7 +1519,7 @@
                 "open_issues": 85,
                 "owner": "liuliu",
                 "repo": "ccv",
-                "stars": 7255,
+                "stars": 7256,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 27,
                 "owner": "jesolem",
                 "repo": "PCV",
-                "stars": 1961,
+                "stars": 1962,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2114,7 +2114,7 @@
                 "open_issues": 47,
                 "owner": "kjw0612",
                 "repo": "awesome-deep-vision",
-                "stars": 11193,
+                "stars": 11194,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2142,7 +2142,7 @@
                 "open_issues": 34,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74817,
+                "stars": 74828,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2204,7 +2204,7 @@
                 "open_issues": 34,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74817,
+                "stars": 74828,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2250,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T19:52:33.349Z",
+    "last_updated": "2026-11-14T18:18:20.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome computer vision resources",
@@ -2262,7 +2262,7 @@
       "open_issues": 99,
       "owner": "jbhuang0604",
       "repo": "awesome-computer-vision",
-      "stars": 23642,
+      "stars": 23644,
       "topics": []
     },
     "original_repository_sha": "9b82b1645aecdc9b895fc378d5209a9f6672bb15",
