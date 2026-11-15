@@ -15,11 +15,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-14T15:52:54Z",
-            "open_issues": 169,
+            "last_commit": "2026-11-15T16:26:34Z",
+            "open_issues": 170,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 80114,
+            "stars": 80136,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -45,7 +45,7 @@
             "open_issues": 34,
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74828,
+            "stars": 74831,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -94,7 +94,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-12T09:25:16Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
             "stars": 21102,
@@ -159,7 +159,7 @@
             "open_issues": 21,
             "owner": "timzhang642",
             "repo": "3D-Machine-Learning",
-            "stars": 10224,
+            "stars": 10225,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -215,7 +215,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-09-22T20:24:10Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "kiloreux",
             "repo": "awesome-robotics",
             "stars": 7309,
@@ -295,7 +295,7 @@
             "open_issues": 20,
             "owner": "nashory",
             "repo": "gans-awesome-applications",
-            "stars": 5103,
+            "stars": 5104,
             "topics": [
               "applications",
               "curated-list",
@@ -602,7 +602,7 @@
             "open_issues": 16,
             "owner": "heyalexej",
             "repo": "awesome-images",
-            "stars": 2520,
+            "stars": 2521,
             "topics": []
           },
           "first_seen": "2026-08-28T22:28:31.641Z"
@@ -953,7 +953,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2023-06-09T15:42:07Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "jsbroks",
             "repo": "awesome-dataset-tools",
             "stars": 946,
@@ -1540,7 +1540,7 @@
                 "open_issues": 27,
                 "owner": "jesolem",
                 "repo": "PCV",
-                "stars": 1962,
+                "stars": 1961,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -1728,7 +1728,7 @@
                     "open_issues": 193,
                     "owner": "uzh-rpg",
                     "repo": "rpg_svo",
-                    "stars": 2236,
+                    "stars": 2237,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2142,7 +2142,7 @@
                 "open_issues": 34,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74828,
+                "stars": 74831,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2204,7 +2204,7 @@
                 "open_issues": 34,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74828,
+                "stars": 74831,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:28:31.641Z"
@@ -2250,7 +2250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:18:20.653Z",
+    "last_updated": "2026-11-15T18:58:04.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome computer vision resources",
@@ -2262,7 +2262,7 @@
       "open_issues": 99,
       "owner": "jbhuang0604",
       "repo": "awesome-computer-vision",
-      "stars": 23644,
+      "stars": 23649,
       "topics": []
     },
     "original_repository_sha": "9b82b1645aecdc9b895fc378d5209a9f6672bb15",
