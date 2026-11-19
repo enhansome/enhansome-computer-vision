@@ -1,6 +1,6 @@
 # Awesome Computer Vision: with stars
 
-A curated list of awesome computer vision resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,809 | 🐛 86 | 📅 2026-10-30.
+A curated list of awesome computer vision resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,807 | 🐛 86 | 📅 2026-10-30.
 
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
@@ -25,41 +25,41 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 ## Awesome Lists
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,192 | 🐛 170 | 📅 2026-11-18
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 80,207 | 🐛 170 | 📅 2026-11-19
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,850 | 🐛 35 | 🌐 Python | 📅 2026-11-12
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,209 | 🐛 92 | 📅 2025-05-26
-* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,113 | 🐛 44 | 📅 2026-11-12
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,197 | 🐛 47 | 📅 2023-08-15
-* [Awesome 3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,230 | 🐛 21 | 📅 2024-07-04
-* [Awesome Object Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,518 | 🐛 7 | 📅 2022-12-17
-* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) ⭐ 7,317 | 🐛 54 | 📅 2024-09-22
-* [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,774 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
-* [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) ⭐ 5,463 | 🐛 2 | 📅 2025-12-08
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,212 | 🐛 91 | 📅 2025-05-26
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,115 | 🐛 44 | 📅 2026-11-12
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,196 | 🐛 47 | 📅 2023-08-15
+* [Awesome 3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,228 | 🐛 21 | 📅 2024-07-04
+* [Awesome Object Detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,517 | 🐛 7 | 📅 2022-12-17
+* [Awesome Robotics](https://github.com/kiloreux/awesome-robotics) ⭐ 7,315 | 🐛 54 | 📅 2024-09-22
+* [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
+* [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) ⭐ 5,464 | 🐛 2 | 📅 2025-12-08
 * [Awesome GAN applications](https://github.com/nashory/gans-awesome-applications) ⭐ 5,105 | 🐛 20 | 📅 2026-06-08
 * [Awesome Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) ⭐ 4,766 | 🐛 11 | 📅 2023-02-09
 * [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) ⭐ 4,088 | 🐛 27 | 📅 2026-06-03
-* [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,045 | 🐛 6 | 📅 2023-05-13
+* [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition) ⭐ 4,044 | 🐛 6 | 📅 2023-05-13
 * [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) ⭐ 3,591 | 🐛 4 | 📅 2025-01-07
-* [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) ⭐ 3,073 | 🐛 2 | 📅 2022-04-20
+* [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification) ⭐ 3,072 | 🐛 2 | 📅 2022-04-20
 * [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,924 | 🐛 10 | 📅 2022-09-20
 * [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) ⭐ 2,921 | 🐛 1 | 📅 2025-06-29
 * [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) ⭐ 2,716 | 🐛 3 | 📅 2025-05-03
 * [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations) ⭐ 2,657 | 🐛 7 | 📅 2024-02-11
-* [Awesome Images](https://github.com/heyalexej/awesome-images) ⭐ 2,521 | 🐛 16 | 📅 2026-07-06
-* [Awesome Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ⭐ 2,518 | 🐛 5 | 🌐 HTML | 📅 2026-03-09
+* [Awesome Images](https://github.com/heyalexej/awesome-images) ⭐ 2,520 | 🐛 16 | 📅 2026-07-06
+* [Awesome Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection) ⭐ 2,516 | 🐛 5 | 🌐 HTML | 📅 2026-03-09
 * [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering) ⭐ 2,360 | 🐛 1 | 📅 2026-07-16
 * [Awesome Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting) ⭐ 2,187 | 🐛 6 | 🌐 Python | 📅 2026-02-09
-* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,918 | 🐛 5 | 📅 2020-11-26
+* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) ⭐ 1,916 | 🐛 5 | 📅 2020-11-26
 * [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) ⭐ 1,661 | 🐛 3 | 🌐 Markdown | 📅 2026-08-19
 * [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding) ⭐ 1,547 | 🐛 17 | 📅 2023-06-02
-* [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) ⭐ 1,378 | 🐛 6 | 📅 2020-08-07
-* [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) ⭐ 1,378 | 🐛 6 | 📅 2020-08-07
+* [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) ⭐ 1,377 | 🐛 6 | 📅 2020-08-07
+* [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) ⭐ 1,377 | 🐛 6 | 📅 2020-08-07
 * [Awesome Image-to-Image Translation](https://github.com/weihaox/awesome-image-translation) ⭐ 1,243 | 🐛 0 | 📅 2025-09-20
 * [Awesome Vision + Language](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers) ⭐ 1,161 | 🐛 10 | 📅 2022-08-19
-* [Awesome Graphics](https://github.com/ericjang/awesome-graphics) ⭐ 1,124 | 🐛 3 | 📅 2020-02-29
+* [Awesome Graphics](https://github.com/ericjang/awesome-graphics) ⭐ 1,123 | 🐛 3 | 📅 2020-02-29
 * [Awesome Dataset Tools](https://github.com/jsbroks/awesome-dataset-tools) ⭐ 946 | 🐛 8 | 📅 2023-06-09
 * [Awesome Face](https://github.com/polarisZhao/awesome-face) ⭐ 916 | 🐛 3 | 📅 2019-08-27
-* [Awesome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ⭐ 848 | 🐛 3 | 📅 2021-10-10
+* [Awesome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis) ⭐ 847 | 🐛 3 | 📅 2021-10-10
 * [Awesome Scene Understanding](https://github.com/bertjiazheng/awesome-scene-understanding) ⚠️ Archived
 * [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision) ⭐ 711 | 🐛 6 | 📅 2025-06-13
 * [Awesome Video Text Retrieval](https://github.com/danieljf24/awesome-video-text-retrieval) ⭐ 647 | 🐛 3 | 📅 2023-10-20
@@ -315,8 +315,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 #### General Purpose Computer Vision Library
 
-* [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv) ⭐ 7,256 | 🐛 85 | 🌐 C++ | 📅 2026-11-18
-* [Open source Python module for computer vision](https://github.com/jesolem/PCV) ⭐ 1,961 | 🐛 27 | 🌐 Python | 📅 2020-12-28
+* [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv) ⭐ 7,255 | 🐛 85 | 🌐 C++ | 📅 2026-11-18
+* [Open source Python module for computer vision](https://github.com/jesolem/PCV) ⭐ 1,960 | 🐛 27 | 🌐 Python | 📅 2020-12-28
 * [Open CV](http://opencv.org/)
 * [mexopencv](http://kyamagu.github.io/mexopencv/)
 * [SimpleCV](http://simplecv.org/)
@@ -552,7 +552,7 @@ Non-uniform Deblurring
 
 ###### Graph Optimization:
 
-* [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o) ⭐ 3,479 | 🐛 5 | 🌐 C++ | 📅 2026-11-16
+* [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o) ⭐ 3,478 | 🐛 5 | 🌐 C++ | 📅 2026-11-16
 * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
 
 ###### Loop Closure:
@@ -575,9 +575,9 @@ Non-uniform Deblurring
 
 #### Object Detection
 
-* [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn) ⭐ 2,418 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
+* [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn) ⭐ 2,415 | 🐛 54 | 🌐 Matlab | 📅 2017-04-03
 * [Edge Boxes](https://github.com/pdollar/edges) ⭐ 837 | 🐛 18 | 🌐 Matlab | 📅 2019-12-02
-* [VOC-DPM](https://github.com/rbgirshick/voc-dpm) ⭐ 577 | 🐛 19 | 🌐 Matlab | 📅 2017-04-03
+* [VOC-DPM](https://github.com/rbgirshick/voc-dpm) ⭐ 576 | 🐛 19 | 🌐 Matlab | 📅 2017-04-03
 * [SPP-Net](https://github.com/ShaoqingRen/SPP_net) ⭐ 367 | 🐛 19 | 🌐 Matlab | 📅 2016-07-11
 * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
 * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
@@ -632,7 +632,7 @@ Non-uniform Deblurring
 
 #### Image Captioning
 
-* [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) ⭐ 5,514 | 🐛 31 | 🌐 Python | 📅 2020-12-22 -
+* [NeuralTalk](https://github.com/karpathy/neuraltalk﻿) ⭐ 5,513 | 🐛 31 | 🌐 Python | 📅 2020-12-22 -
 
 #### Optimization
 
@@ -643,7 +643,7 @@ Non-uniform Deblurring
 
 #### Deep Learning
 
-* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,197 | 🐛 47 | 📅 2023-08-15
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,196 | 🐛 47 | 📅 2023-08-15
 
 #### Machine Learning
 
@@ -862,7 +862,7 @@ Non-uniform Deblurring
 
 ## Blogs
 
-* [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) ⭐ 435 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-02-21 - Jason Chin (University of Western Ontario)
+* [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) ⭐ 434 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-02-21 - Jason Chin (University of Western Ontario)
 * [Learn OpenCV](http://www.learnopencv.com/) - Satya Mallick
 * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) - Tomasz Malisiewicz
 * [Computer vision for dummies](http://www.visiondummy.com/) - Vincent Spruyt
@@ -873,7 +873,7 @@ Non-uniform Deblurring
 ## Links
 
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,850 | 🐛 35 | 🌐 Python | 📅 2026-11-12
-* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,209 | 🐛 92 | 📅 2025-05-26
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,212 | 🐛 91 | 📅 2025-05-26
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
@@ -896,4 +896,4 @@ To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
